@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Nusantara",
+  "description": "Media Pembelajaran Interaktif IPS Kelas VIII SMP: Kondisi Geografis dan Interaksi dengan Bangsa Asing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star of the Seas / Compass Star at top right of ship -->
+    <path
+        android:fillColor="#F4B41A"
+        android:pathData="M68,26 L70,32 L76,34 L70,36 L68,42 L66,36 L60,34 L66,32 Z" />
+
+    <!-- Main mast & rear mast -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M52,32 L52,66 M38,40 L38,66 M68,44 L68,66" />
+
+    <!-- Big central sail (Golden warm) -->
+    <path
+        android:fillColor="#F4B41A"
+        android:pathData="M53,35 C62,37 63,48 53,58 C51,52 51,42 53,35 Z" />
+
+    <!-- Front triangular sail (Bright cream/gold) -->
+    <path
+        android:fillColor="#FEE180"
+        android:pathData="M54,36 L70,56 L54,54 Z" />
+
+    <!-- Fore mast sail (Left) -->
+    <path
+        android:fillColor="#E2D9C5"
+        android:pathData="M37,42 C30,44 29,54 37,60 Z" />
+
+    <!-- Ship Hull (Traditional Jung / Phinisi Nusantara wooden curved hull) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,63 C27,70 38,72 54,72 C70,72 81,70 84,63 C80,66 70,68 54,68 C38,68 28,66 24,63 Z" />
+    <path
+        android:fillColor="#F4B41A"
+        android:pathData="M27,65 L81,65 C77,71 66,73 54,73 C42,73 31,71 27,65 Z" />
+
+    <!-- Ocean Wave at bottom -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M22,76 C26,73 30,73 34,76 C38,79 42,79 46,76 C50,73 54,73 58,76 C62,79 66,79 70,76 C74,73 78,73 82,76 C86,79 88,78 90,76 L90,79 C87,81 84,81 81,79 C77,76 73,76 69,79 C65,82 61,82 57,79 C53,76 49,76 45,79 C41,82 37,82 33,79 C29,76 25,76 21,79 L21,76 Z" />
+</vector>
